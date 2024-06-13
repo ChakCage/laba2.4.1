@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-12T18:49:28.097411600Z</date>
+  <millis>1718218168097</millis>
+  <nanos>411600</nanos>
+  <sequence>0</sequence>
+  <logger>Start</logger>
+  <level>INFO</level>
+  <class>Start</class>
+  <method>startGame</method>
+  <thread>1</thread>
+  <message>Игра началась</message>
+</record>
+<record>
+  <date>2024-06-12T18:49:55.078828900Z</date>
+  <millis>1718218195078</millis>
+  <nanos>828900</nanos>
+  <sequence>7</sequence>
+  <logger>Start</logger>
+  <level>INFO</level>
+  <class>Start</class>
+  <method>startGame</method>
+  <thread>1</thread>
+  <message>Игра окончена! Победил игрок!</message>
+</record>
+</log>

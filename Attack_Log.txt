@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-12T18:49:38.893773700Z</date>
+  <millis>1718218178893</millis>
+  <nanos>773700</nanos>
+  <sequence>1</sequence>
+  <logger>InfantryUnit</logger>
+  <level>INFO</level>
+  <class>InfantryUnit</class>
+  <method>receiveDamage</method>
+  <thread>1</thread>
+  <message>Юнит Вражеская Башня получил 7 урона</message>
+</record>
+<record>
+  <date>2024-06-12T18:49:55.071827400Z</date>
+  <millis>1718218195071</millis>
+  <nanos>827400</nanos>
+  <sequence>3</sequence>
+  <logger>InfantryUnit</logger>
+  <level>INFO</level>
+  <class>InfantryUnit</class>
+  <method>receiveDamage</method>
+  <thread>1</thread>
+  <message>Юнит Вражеская Башня получил 7 урона</message>
+</record>
+</log>
